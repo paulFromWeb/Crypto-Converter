@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Crypto-Converter/static/css/main.be982c56.css",
+    "main.js": "/Crypto-Converter/static/js/main.6484cc68.js",
+    "static/media/pyramidIcon.svg": "/Crypto-Converter/static/media/pyramidIcon.778617f66ff0fdb4e9bee054dd57db89.svg",
+    "static/media/securityIcon.svg": "/Crypto-Converter/static/media/securityIcon.deb6a2e18c277dcbf018fbf25956c0a7.svg",
+    "static/media/chainIcon.svg": "/Crypto-Converter/static/media/chainIcon.692aecf26d8bd7789dfa1b4251d0c599.svg",
+    "static/media/folderIcon.svg": "/Crypto-Converter/static/media/folderIcon.dc7843d98666b0c9ad480d914a956cf1.svg",
+    "static/media/refreshIcon.svg": "/Crypto-Converter/static/media/refreshIcon.6cc01543f2730b77c2fe65b8c415f937.svg",
+    "index.html": "/Crypto-Converter/index.html",
+    "static/media/convertIcon.svg": "/Crypto-Converter/static/media/convertIcon.80b7d43839cc6bf95428e9bda05504b4.svg",
+    "static/media/caretIcon.svg": "/Crypto-Converter/static/media/caretIcon.a9cf340ca216fed4e59caca056762207.svg",
+    "main.be982c56.css.map": "/Crypto-Converter/static/css/main.be982c56.css.map",
+    "main.6484cc68.js.map": "/Crypto-Converter/static/js/main.6484cc68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.be982c56.css",
+    "static/js/main.6484cc68.js"
+  ]
+}
